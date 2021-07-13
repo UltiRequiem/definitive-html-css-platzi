@@ -29,3 +29,16 @@
 .main__section__article {
   background-color: yellow;
 }
+
+.main__section__list {
+  background-color: darkgoldenrod;
+}
+
+.main__section__list_item {
+  background-color: chocolate;
+}
+
+.footer {
+  background-color: dodgerblue;
+  text-align: center;
+}
