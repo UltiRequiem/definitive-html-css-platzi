@@ -1,0 +1,31 @@
+.header {
+  background-color: darkcyan;
+}
+
+.header__navigation {
+  background-color: burlywood;
+}
+
+.header__navigation__element {
+  background-color: cyan;
+}
+
+.main {
+  background-color: coral;
+}
+
+.main__section {
+  background-color: green;
+}
+
+.main__section__title {
+  background-color: red;
+}
+
+.main__article__title {
+  background-color: blue;
+}
+
+.main__section__article {
+  background-color: yellow;
+}
